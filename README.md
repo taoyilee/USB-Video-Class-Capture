@@ -4,4 +4,4 @@
 1. OpenCV
 2. Numpy
 ## Tested Compatible Hardware
-1. Logitech
+1. Logitech 046d:081b Logitech, Inc. Webcam C310
